@@ -1,4 +1,4 @@
-module github.com/rapid7/go-get-proxied
+module github.com/bdwyertech/go-get-proxied
 
 go 1.16
 

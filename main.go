@@ -16,7 +16,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"github.com/rapid7/go-get-proxied/proxy"
+	"github.com/bdwyertech/go-get-proxied/proxy"
 	"io/ioutil"
 	"log"
 	"os"

@@ -1,14 +1,14 @@
 go-get-proxied - Cross platform proxy configurations
 ================================
 
-[![Build Status](https://travis-ci.org/rapid7/go-get-proxied.svg)](https://travis-ci.org/rapid7/go-get-proxied) [![Go Report Card](https://goreportcard.com/badge/github.com/rapid7/go-get-proxied)](https://goreportcard.com/report/github.com/rapid7/go-get-proxied)
+[![Build Status](https://travis-ci.org/rapid7/go-get-proxied.svg)](https://travis-ci.org/rapid7/go-get-proxied) [![Go Report Card](https://goreportcard.com/badge/github.com/bdwyertech/go-get-proxied)](https://goreportcard.com/report/github.com/bdwyertech/go-get-proxied)
 
 Go code (golang) package which facilitates the retrieval of system proxy configurations.
 
 #### Installation
 
-* Install this package using `go get github.com/rapid7/go-get-proxied`
-* Or, simply import `go get github.com/rapid7/go-get-proxied`, and use `dep ensure` to include it in your package
+* Install this package using `go get github.com/bdwyertech/go-get-proxied`
+* Or, simply import `go get github.com/bdwyertech/go-get-proxied`, and use `dep ensure` to include it in your package
 
 #### Usage: 
 
@@ -16,7 +16,7 @@ Go code (golang) package which facilitates the retrieval of system proxy configu
 package main
 import (
     "fmt"
-    "github.com/rapid7/go-get-proxied/proxy"
+    "github.com/bdwyertech/go-get-proxied/proxy"
 )
 func main() {
     p := proxy.NewProvider("").Get("https", "https://rapid7.com")
