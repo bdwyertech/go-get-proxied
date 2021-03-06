@@ -1,5 +1,5 @@
-github.com/bdwyertech/go-scutil v0.0.0-20210305044044-814e0f3f0cd3 h1:oMOwe3KddRPeMJkr+oYXQcJua9kZbIUCq30Ze/QYGJE=
-github.com/bdwyertech/go-scutil v0.0.0-20210305044044-814e0f3f0cd3/go.mod h1:gV303gJocqRNJVrg/n4cB+ZwoHxKKMiAiwe+t627Kjw=
+github.com/bdwyertech/go-scutil v0.0.0-20210306002117-b25267f54e45 h1:h0VnajBq78VxrXh3qvakigCyjh9pWnTVYkzsLiKrZog=
+github.com/bdwyertech/go-scutil v0.0.0-20210306002117-b25267f54e45/go.mod h1:gV303gJocqRNJVrg/n4cB+ZwoHxKKMiAiwe+t627Kjw=
 github.com/darren/gpac v0.0.0-20201209040425-3300e0622b93 h1:H6CW26kV4Egh6/v0o7Nd33ArRtwfQ9erfrVzOCZ1O6Q=
 github.com/darren/gpac v0.0.0-20201209040425-3300e0622b93/go.mod h1:1Id6bMaG5dQYTt+Pk0msQw4r/+kkuzfuFwoictr5mcU=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
@@ -15,8 +15,8 @@ github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZN
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.7.0 h1:nwc3DEeHmmLAfoZucVR881uASk0Mfjw8xYJ99tb5CcY=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
-golang.org/x/sys v0.0.0-20210304203840-7b4935edff86 h1:TmVfeQsidiBAiZMvxnHWD63KxYBVCiFs+k/pWtzhllI=
-golang.org/x/sys v0.0.0-20210304203840-7b4935edff86/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.0.0-20210305230114-8fe3ee5dd75b h1:ggRgirZABFolTmi3sn6Ivd9SipZwLedQ5wR0aAKnFxU=
+golang.org/x/sys v0.0.0-20210305230114-8fe3ee5dd75b/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/text v0.3.3 h1:cokOdA+Jmi5PJGXLlLllQSgYigAEfHXJAERHVMaCc2k=
 golang.org/x/text v0.3.3/go.mod h1:5Zoc/QRtKVWzQhOtBMvqHzDpF6irO9z98xDceosuGiQ=
 golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
